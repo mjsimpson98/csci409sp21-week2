@@ -1,0 +1,4 @@
+.emv
+.emv.backup
+/node_modules
+/vendor
